@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HandOff">
+    <output-path>$PROJECT_DIR$/TESTING/plugins</output-path>
+    <root id="archive" name="HandOff.jar">
+      <element id="module-output" name="HandOff" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+name: ApolloStatsServer
+version: 1.1.0
+description: This project displays user rankings for various Minecraft statistics from the Apollo server on ConsumerJunk.net
+author: ConsumerJunk
+website: consumerjunk.net
+main: net.consumerjunk.apolloStats.ApolloStatsServer
+commands:
+  commands:
+    savestats:
+      description: Compile the combined.json list for use on ConsumerJunk.net/Apollo
+      permission: apollostats.savestats
+      usage: /<command>
+permissions:
+  apollostats.savestats:
+    default: false;
+    description: Gives access to the savestats command.
