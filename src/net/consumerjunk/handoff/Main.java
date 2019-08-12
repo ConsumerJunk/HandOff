@@ -14,7 +14,6 @@ public class Main extends JavaPlugin {
 	public void onEnable() {
 		printToConsole("Handoff v." + this.getDescription().getVersion() + " has started.", true);
 		Bukkit.getPluginManager().registerEvents(pih, this);
-		getCommand("")
 	}
 
 	@Override

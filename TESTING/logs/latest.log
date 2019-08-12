@@ -1,96 +1,32 @@
-[18:14:37] [Server thread/INFO]: Loading properties
-[18:14:38] [Server thread/INFO]: Default game type: SURVIVAL
-[18:14:38] [Server thread/INFO]: Generating keypair
-[18:14:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:14:39] [Server thread/INFO]: Using default channel type
-[18:14:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e5e8eec (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[18:14:46] [Server thread/INFO]: [HandOff] Loading HandOff v1.1.0
-[18:14:46] [Server thread/INFO]: Preparing level "world"
-[18:14:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:14:47] [Server thread/INFO]: Loaded 6 recipes
-[18:14:47] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[18:14:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:49] [Server thread/INFO]: Preparing spawn area: 1%
-[18:14:49] [Server thread/INFO]: Time elapsed: 1788 ms
-[18:14:49] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[18:14:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:51] [Server thread/INFO]: Preparing spawn area: 5%
-[18:14:51] [Server thread/INFO]: Preparing spawn area: 5%
-[18:14:51] [Server thread/INFO]: Preparing spawn area: 5%
-[18:14:51] [Server thread/INFO]: Preparing spawn area: 5%
-[18:14:52] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[18:14:52] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[18:14:53] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[18:14:53] [Server-Worker-6/INFO]: Preparing spawn area: 88%
-[18:14:54] [Server thread/INFO]: Preparing spawn area: 97%
-[18:14:54] [Server thread/INFO]: Time elapsed: 5060 ms
-[18:14:54] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[18:14:54] [Server thread/INFO]: Preparing spawn area: 0%
-[18:14:54] [Server-Worker-7/INFO]: Preparing spawn area: 83%
-[18:14:55] [Server thread/INFO]: Time elapsed: 972 ms
-[18:14:55] [Server thread/INFO]: [HandOff] Enabling HandOff v1.1.0
-[18:14:55] [Server thread/INFO]: [0;36;1m[HandOff] [mHandOff v.1.1.0 has started.[m
-[18:14:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:14:55] [Server thread/INFO]: Done (9.021s)! For help, type "help"
-[18:14:57] [User Authenticator #1/INFO]: UUID of player ConsumerJunk is f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64
-[18:14:58] [Server thread/INFO]: ConsumerJunk[/127.0.0.1:52134] logged in with entity id 179 at ([world]275.69946618734565, 64.0, 160.45714509125798)
-[18:16:16] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:16:16] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:16:16] [Server thread/INFO]: [HandOff] Disabling HandOff v1.1.0
-[18:16:16] [Server thread/INFO]: [0;36;1m[HandOff] [mHandOff has stopped.[m
-[18:16:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:16:17] [Server thread/INFO]: Loaded 6 recipes
-[18:16:17] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:16:18] [Server thread/INFO]: Loaded 6 recipes
-[18:16:18] [Server thread/INFO]: [HandOff] Loading HandOff v1.1.0
-[18:16:18] [Server thread/INFO]: [HandOff] Enabling HandOff v1.1.0
-[18:16:18] [Server thread/INFO]: [0;36;1m[HandOff] [m!!DEEEEEEEERP!! v.1.1.0 has started.[m
-[18:16:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:16:18] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:17:07] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:17:07] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:17:07] [Server thread/INFO]: [HandOff] Disabling HandOff v1.1.0
-[18:17:07] [Server thread/INFO]: [0;36;1m[HandOff] [mHandOff has stopped.[m
-[18:17:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:17:08] [Server thread/INFO]: Loaded 6 recipes
-[18:17:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:17:08] [Server thread/INFO]: Loaded 6 recipes
-[18:17:08] [Server thread/INFO]: [HandOff] Loading HandOff v1.1.0
-[18:17:08] [Server thread/INFO]: [HandOff] Enabling HandOff v1.1.0
-[18:17:08] [Server thread/INFO]: [0;36;1m[HandOff] [mCHANGE v.1.1.0 has started.[m
-[18:17:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:17:08] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:17:34] [Server thread/INFO]: ConsumerJunk issued server command: /rl
-[18:17:34] [Server thread/INFO]: ConsumerJunk: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:17:34] [Server thread/INFO]: ConsumerJunk: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:17:34] [Server thread/INFO]: [HandOff] Disabling HandOff v1.1.0
-[18:17:34] [Server thread/INFO]: [0;36;1m[HandOff] [mHandOff has stopped.[m
-[18:17:34] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:17:34] [Server thread/INFO]: Loaded 6 recipes
-[18:17:34] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:17:34] [Server thread/INFO]: Loaded 6 recipes
-[18:17:35] [Server thread/INFO]: [HandOff] Loading HandOff v1.1.0
-[18:17:35] [Server thread/INFO]: [HandOff] Enabling HandOff v1.1.0
-[18:17:35] [Server thread/INFO]: [0;36;1m[HandOff] [mCHANGE v.1.1.0 has started.[m
-[18:17:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:17:35] [Server thread/INFO]: ConsumerJunk: [0;32;1mReload complete.[m
-[18:21:03] [Server thread/INFO]: ConsumerJunk lost connection: Disconnected
-[18:21:03] [Server thread/INFO]: ConsumerJunk left the game
-[18:21:06] [Server thread/INFO]: Stopping the server
-[18:21:06] [Server thread/INFO]: Stopping server
-[18:21:06] [Server thread/INFO]: [HandOff] Disabling HandOff v1.1.0
-[18:21:06] [Server thread/INFO]: [0;36;1m[HandOff] [mHandOff has stopped.[m
-[18:21:06] [Server thread/INFO]: Saving players
-[18:21:06] [Server thread/INFO]: Saving worlds
-[18:21:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:21:06] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[18:21:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:21:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[18:21:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:21:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:21:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:21:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:04:19] [Server thread/INFO]: Loading properties
+[08:04:19] [Server thread/INFO]: Default game type: SURVIVAL
+[08:04:19] [Server thread/INFO]: Generating keypair
+[08:04:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:04:20] [Server thread/INFO]: Using default channel type
+[08:04:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e5e8eec (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[08:04:25] [Server thread/INFO]: [HandOff] Loading HandOff v1.1.0
+[08:04:25] [Server thread/INFO]: Preparing level "world"
+[08:04:25] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[08:04:25] [Server thread/INFO]: Loaded 6 recipes
+[08:04:26] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[08:04:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:04:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:04:27] [Server thread/INFO]: Preparing spawn area: 29%
+[08:04:27] [Server thread/INFO]: Time elapsed: 1179 ms
+[08:04:27] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[08:04:28] [Server thread/INFO]: Preparing spawn area: 0%
+[08:04:28] [Server thread/INFO]: Preparing spawn area: 0%
+[08:04:29] [Server thread/INFO]: Preparing spawn area: 79%
+[08:04:29] [Server-Worker-4/INFO]: Preparing spawn area: 79%
+[08:04:29] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[08:04:29] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[08:04:30] [Server-Worker-6/INFO]: Preparing spawn area: 89%
+[08:04:30] [Server thread/INFO]: Time elapsed: 3340 ms
+[08:04:30] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[08:04:31] [Server thread/INFO]: Preparing spawn area: 0%
+[08:04:31] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[08:04:31] [Server thread/INFO]: Time elapsed: 815 ms
+[08:04:31] [Server thread/INFO]: [HandOff] Enabling HandOff v1.1.0
+[08:04:31] [Server thread/INFO]: [0;36;1m[HandOff] [mCHANGE v.1.1.0 has started.[m
+[08:04:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:04:31] [Server thread/INFO]: Done (6.190s)! For help, type "help"
