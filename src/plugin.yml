@@ -1,0 +1,6 @@
+name: HandOff
+author: ConsumerJunk
+website: ConsumerJunk.net
+description: This plugin adds simple shops to your server
+version: 1.2.0
+main: net.consumerjunk.handoff.Main

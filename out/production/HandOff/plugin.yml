@@ -1,11 +1,6 @@
 name: HandOff
-api-version: 1.14
-version: 1.1.0
-description: This plugin adds shops to your Minecraft server.
 author: ConsumerJunk
-website: consumerjunk.net
+website: ConsumerJunk.net
+description: This plugin adds simple shops to your server
+version: 1.2.0
 main: net.consumerjunk.handoff.Main
-permissions:
-  handoff.adminshop:
-    description: This permission allows Admins to create stores with infinite.
-    default: false

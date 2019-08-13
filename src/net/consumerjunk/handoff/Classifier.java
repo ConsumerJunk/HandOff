@@ -1,5 +1,6 @@
 package net.consumerjunk.handoff;
 
+import org.bukkit.ChatColor;
 import org.bukkit.block.Sign;
 
 public class Classifier {
@@ -15,7 +16,7 @@ public class Classifier {
 	public static final int SELL = 5;
 
 	public static int classify(Sign sign) {
-		String firstLine = sign.getLine(0).toUpperCase();
+		String firstLine = ChatColor.stripColor(sign.getLine(0)).toUpperCase();
 		switch (firstLine) {
 			case "[*TRADE]":
 				return ADMIN_TRADE;

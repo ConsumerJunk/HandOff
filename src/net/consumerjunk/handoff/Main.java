@@ -12,7 +12,7 @@ public class Main extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
-		printToConsole("Handoff v." + this.getDescription().getVersion() + " has started.", true);
+		printToConsole("HandOff v." + this.getDescription().getVersion() + " has started.", true);
 		Bukkit.getPluginManager().registerEvents(pih, this);
 	}
 

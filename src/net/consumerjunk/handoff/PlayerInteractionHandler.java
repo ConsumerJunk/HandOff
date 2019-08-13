@@ -24,11 +24,14 @@ public class PlayerInteractionHandler implements Listener {
 				Main.messagePlayer(player, "Chest location saved.", true);
 				e.setCancelled(true);
 			} else {
-				Main.printToConsole(block.getType().name(), false);
 				if(block.getType().name().contains("SIGN")) {
+					System.out.println("Clicked sign");
 					Sign sign = (Sign)block.getState();
 					if(StorageManager.savedLocations.containsKey(player)) {
+						System.out.println("Has chest");
 						int classification = Classifier.classify(sign);
+						// TODO: Check if a shop with that chest (or sign) already exists.
+						System.out.println(classification);
 						if(classification >= 0 && classification <= 2 && !player.hasPermission("handoff.adminshop")) {
 							Main.messagePlayer(player, "You do not have permission to create Admin shops.", true);
 							return;
