@@ -5,31 +5,34 @@
       <artifact name="HandOff" />
     </artifacts-to-build>
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java" line="11" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ba5573ce-8610-4f6f-9f8a-b025df15f8ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/ShopGUIHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/ops.json" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/ops.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/plugins/HandOff.jar" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/plugins/HandOff.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/server.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/advancements/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.json" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/advancements/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/data/scoreboard.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/data/scoreboard.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/level.dat_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/playerdata/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/playerdata/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/poi/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.0.1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTING/world/region/r.1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/region/r.1.1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world/stats/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.json" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world/stats/f8ea7b8b-c7b6-4f62-bd51-86d8dc8bad64.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/data/raids_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/data/raids_nether.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/DIM-1/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world_nether/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TESTING/world_nether/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/TESTING/world_nether/level.dat_old" afterDir="false" />
@@ -46,13 +49,17 @@
       <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/Classifier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/PlayerInteractionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/PlayerInteractionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/StorageManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/StorageManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/signs/BuySign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/signs/BuySign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/signs/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/net/consumerjunk/handoff/signs/Shop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HandOff/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HandOff/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="569">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,50 +98,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/plugin.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#844#1188#1" />
+                <element signature="e#1014#2128#1" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/ShopGUIHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/org/bukkit/Material.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="231" column="24" lean-forward="true" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="137">
+              <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,10 +133,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            <state relative-caret-position="270">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1633#1634#0" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="216">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -180,6 +178,12 @@
       <find>file no</find>
       <find>System</find>
       <find>ab</find>
+      <find>out</find>
+      <find>confirming</find>
+      <find>shopping</find>
+      <find>shoppingPlayers.add</find>
+      <find>openBuy</find>
+      <find>openBuy(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -205,13 +209,16 @@
         <option value="$PROJECT_DIR$/src/net/consumerjunk/apolloStats/ApolloStatsCommandExecutor.java" />
         <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ApolloStatsServer.java" />
         <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ClassUtils.java" />
-        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java" />
-        <option value="$PROJECT_DIR$/src/plugin.yml" />
-        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java" />
-        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java" />
-        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java" />
         <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ShopGUI.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java" />
         <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java" />
+        <option value="$PROJECT_DIR$/src/net/consumerjunk/handoff/ShopGUIHandler.java" />
+        <option value="$PROJECT_DIR$/src/plugin.yml" />
       </list>
     </option>
   </component>
@@ -245,13 +252,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="handoff" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Handoff" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Handoff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="handoff" type="462c0819:PsiDirectoryNode" />
-              <item name="signs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -264,7 +264,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565656896812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565928173437" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.14970645" />
@@ -327,10 +327,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49840087" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159913" side_tool="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3217768" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" visible="true" weight="0.3217768" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -417,64 +417,64 @@
     <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/apolloStats/ApolloStatsCommandExecutor.java" />
     <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/apolloStats/ApolloStatsJsonManager.java" />
     <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/apolloStats/ApolloStatsResponseServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java">
+    <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/org/bukkit/inventory/ItemStack.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="199">
+          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+    <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/org/bukkit/event/inventory/InventoryClickEvent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="162">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/net/minecraft/server/v1_14_R1/MinecraftServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23664">
+          <caret line="720" selection-start-line="720" selection-end-line="720" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/ChestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="75">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java">
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/Classifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        <state relative-caret-position="272">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,15 +483,78 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/org/bukkit/Material.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="231" column="24" lean-forward="true" selection-start-line="231" selection-start-column="24" selection-end-line="231" selection-end-column="24" />
+        <state relative-caret-position="324">
+          <caret line="237" column="1" selection-start-line="237" selection-start-column="1" selection-end-line="237" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/signs/BuySign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/StorageManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/PlayerInteractionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="602">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#844#1188#1" />
+            <element signature="e#1014#2128#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/TESTING/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/org/bukkit/inventory/Inventory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/consumerjunk/handoff/ShopGUIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

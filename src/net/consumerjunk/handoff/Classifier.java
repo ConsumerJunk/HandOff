@@ -1,6 +1,8 @@
 package net.consumerjunk.handoff;
 
 import org.bukkit.ChatColor;
+import org.bukkit.Material;
+import org.bukkit.block.Block;
 import org.bukkit.block.Sign;
 
 public class Classifier {
@@ -32,6 +34,10 @@ public class Classifier {
 				return SELL;
 		}
 		return UNKNOWN;
+	}
+
+	public static boolean isSign(Block block) {
+		return block.getType().name().toUpperCase().contains("SIGN");
 	}
 
 }
